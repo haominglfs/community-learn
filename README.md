@@ -9,7 +9,6 @@
     git remote add origin git@github.com:haominglfs/community-learn.git
     git push -u origin master
    ```
-
 3. 如果commit 后发现有问题，修改后，可以不增加新的commit,而是追加
    ```$shell
    git commit --amend --no-edit
